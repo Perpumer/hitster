@@ -1,0 +1,492 @@
+[
+  {
+    "id": "001",
+    "title": "Sin Ti",
+    "artist": "Los Panchos",
+    "year": 1951,
+    "file": "songs/1951-Los Panchos-Sin Ti.mp3"
+  },
+  {
+    "id": "002",
+    "title": "Singin' in the Rain",
+    "artist": "Gene Kelly",
+    "year": 1952,
+    "file": "songs/1952-Gene Kelly-Singin' in the Rain.mp3"
+  },
+  {
+    "id": "003",
+    "title": "Meet Mister Callaghan",
+    "artist": "Les Paul",
+    "year": 1952,
+    "file": "songs/1952-Les Paul-Meet Mister Callaghan.mp3"
+  },
+  {
+    "id": "004",
+    "title": "I Put a Spell on You",
+    "artist": "Screaming Jay Hawkins",
+    "year": 1956,
+    "file": "songs/1956-Screaming Jay Hawkins-I Put a Spell on You.mp3"
+  },
+  {
+    "id": "005",
+    "title": "Gopher Mambo",
+    "artist": "Yma Sumac",
+    "year": 1957,
+    "file": "songs/1957-Yma Sumac-Gopher Mambo.mp3"
+  },
+  {
+    "id": "006",
+    "title": "Volare",
+    "artist": "Domenico Modugno",
+    "year": 1958,
+    "file": "songs/1958-Domenico Modugno-Volare.mp3"
+  },
+  {
+    "id": "007",
+    "title": "Only You",
+    "artist": "The Platters",
+    "year": 1959,
+    "file": "songs/1959-The Platters-Only You.mp3"
+  },
+  {
+    "id": "008",
+    "title": "En el ultimo trago",
+    "artist": "Chavela Vargas",
+    "year": 1961,
+    "file": "songs/1961-Chavela Vargas-En el ultimo trago.mp3"
+  },
+  {
+    "id": "009",
+    "title": "Don’t Make Me Over",
+    "artist": "Dionne Warwick",
+    "year": 1962,
+    "file": "songs/1962-Dionne Warwick-Don’t Make Me Over.mp3"
+  },
+  {
+    "id": "010",
+    "title": "Maria Elena",
+    "artist": "Los Indios Tabajaras",
+    "year": 1963,
+    "file": "songs/1963-Los Indios Tabajaras-Maria Elena.mp3"
+  },
+  {
+    "id": "011",
+    "title": "Be My Baby",
+    "artist": "The Ronettes",
+    "year": 1963,
+    "file": "songs/1963-The Ronettes-Be My Baby.mp3"
+  },
+  {
+    "id": "012",
+    "title": "Sinnerman",
+    "artist": "Nina Simone",
+    "year": 1965,
+    "file": "songs/1965-Nina Simone-Sinnerman.mp3"
+  },
+  {
+    "id": "013",
+    "title": "It’s A Man’s Man’s Man’s World",
+    "artist": "James Brown",
+    "year": 1966,
+    "file": "songs/1966-James Brown-It’s A Man’s Man’s Man’s World.mp3"
+  },
+  {
+    "id": "014",
+    "title": "I’ll Be Your Mirror",
+    "artist": "The Velvet Underground & Nico",
+    "year": 1967,
+    "file": "songs/1967-The Velvet Underground & Nico-I’ll Be Your Mirror.mp3"
+  },
+  {
+    "id": "015",
+    "title": "La Pomeña",
+    "artist": "Mercedes Sosa",
+    "year": 1969,
+    "file": "songs/1969-Mercedes Sosa-La Pomeña.mp3"
+  },
+  {
+    "id": "016",
+    "title": "Bird’s Lament",
+    "artist": "Moondog",
+    "year": 1969,
+    "file": "songs/1969-Moondog-Bird’s Lament.mp3"
+  },
+  {
+    "id": "017",
+    "title": "Trigal",
+    "artist": "Sandro",
+    "year": 1969,
+    "file": "songs/1969-Sandro-Trigal.mp3"
+  },
+  {
+    "id": "018",
+    "title": "After Hours",
+    "artist": "The Velvet Underground",
+    "year": 1969,
+    "file": "songs/1969-The Velvet Underground-After Hours.mp3"
+  },
+  {
+    "id": "019",
+    "title": "Caminando",
+    "artist": "Isadora",
+    "year": 1976,
+    "file": "songs/1976-Isadora-Caminando.mp3"
+  },
+  {
+    "id": "020",
+    "title": "Heart of Glass",
+    "artist": "Blondie",
+    "year": 1978,
+    "file": "songs/1978-Blondie-Heart of Glass.mp3"
+  },
+  {
+    "id": "021",
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "year": 1978,
+    "file": "songs/1978-Gloria Gaynor-I Will Survive.mp3"
+  },
+  {
+    "id": "022",
+    "title": "The Model",
+    "artist": "Kraftwerk",
+    "year": 1978,
+    "file": "songs/1978-Kraftwerk-The Model.mp3"
+  },
+  {
+    "id": "023",
+    "title": "You Make Me Feel (Mighty Real)",
+    "artist": "Sylvester",
+    "year": 1978,
+    "file": "songs/1978-Sylvester-You Make Me Feel (Mighty Real).mp3"
+  },
+  {
+    "id": "024",
+    "title": "Chiquitita (En Español)",
+    "artist": "ABBA",
+    "year": 1979,
+    "file": "songs/1979-ABBA-Chiquitita (En Español).mp3"
+  },
+  {
+    "id": "025",
+    "title": "I Was Made for Lovin' You",
+    "artist": "Kiss",
+    "year": 1979,
+    "file": "songs/1979-Kiss-I Was Made for Lovin' You.mp3"
+  },
+  {
+    "id": "026",
+    "title": "Rapper's Delight",
+    "artist": "The Sugarhill Gang",
+    "year": 1979,
+    "file": "songs/1979-The Sugarhill Gang-Rapper's Delight.mp3"
+  },
+  {
+    "id": "027",
+    "title": "Army Dreamers",
+    "artist": "Kate Bush",
+    "year": 1980,
+    "file": "songs/1980-Kate Bush-Army Dreamers.mp3"
+  },
+  {
+    "id": "028",
+    "title": "Modern Love",
+    "artist": "David Bowie",
+    "year": 1983,
+    "file": "songs/1983-David Bowie-Modern Love.mp3"
+  },
+  {
+    "id": "029",
+    "title": "Blue Monday",
+    "artist": "New Order",
+    "year": 1983,
+    "file": "songs/1983-New Order-Blue Monday.mp3"
+  },
+  {
+    "id": "030",
+    "title": "Smalltown Boy",
+    "artist": "Bronski Beat",
+    "year": 1984,
+    "file": "songs/1984-Bronski Beat-Smalltown Boy.mp3"
+  },
+  {
+    "id": "031",
+    "title": "Don't Dream It's Over",
+    "artist": "Crowded House",
+    "year": 1986,
+    "file": "songs/1986-Crowded House-Don't Dream It's Over.mp3"
+  },
+  {
+    "id": "032",
+    "title": "Bizarre Love Triangle",
+    "artist": "New Order",
+    "year": 1986,
+    "file": "songs/1986-New Order-Bizarre Love Triangle.mp3"
+  },
+  {
+    "id": "033",
+    "title": "I Wanna Dance with Somebody (Who Loves Me)",
+    "artist": "Whitney Houston",
+    "year": 1987,
+    "file": "songs/1987-Whitney Houston-I Wanna Dance with Somebody (Who Loves Me).mp3"
+  },
+  {
+    "id": "034",
+    "title": "Orinoco Flow",
+    "artist": "Enya",
+    "year": 1988,
+    "file": "songs/1988-Enya-Orinoco Flow.mp3"
+  },
+  {
+    "id": "035",
+    "title": "Baby Can I Hold You",
+    "artist": "Tracy Chapman",
+    "year": 1988,
+    "file": "songs/1988-Tracy Chapman-Baby Can I Hold You.mp3"
+  },
+  {
+    "id": "036",
+    "title": "Wicked Game",
+    "artist": "Chris Isaak",
+    "year": 1989,
+    "file": "songs/1989-Chris Isaak-Wicked Game.mp3"
+  },
+  {
+    "id": "037",
+    "title": "Lambada",
+    "artist": "Kaoma",
+    "year": 1989,
+    "file": "songs/1989-Kaoma-Lambada.mp3"
+  },
+  {
+    "id": "038",
+    "title": "Pump Up the Jam",
+    "artist": "Technotronic",
+    "year": 1989,
+    "file": "songs/1989-Technotronic-Pump Up the Jam.mp3"
+  },
+  {
+    "id": "039",
+    "title": "La Güera Salomé",
+    "artist": "Lía Crucet",
+    "year": 1990,
+    "file": "songs/1990-Lía Crucet-La Güera Salomé.mp3"
+  },
+  {
+    "id": "040",
+    "title": "U Can't Touch This",
+    "artist": "MC Hammer",
+    "year": 1990,
+    "file": "songs/1990-MC Hammer-U Can't Touch This.mp3"
+  },
+  {
+    "id": "041",
+    "title": "Vogue",
+    "artist": "Madonna",
+    "year": 1990,
+    "file": "songs/1990-Madonna-Vogue.mp3"
+  },
+  {
+    "id": "042",
+    "title": "Te para tres",
+    "artist": "Soda Stereo",
+    "year": 1990,
+    "file": "songs/1990-Soda Stereo-Te para tres.mp3"
+  },
+  {
+    "id": "043",
+    "title": "Sopa de Caracol",
+    "artist": "Banda Blanca",
+    "year": 1991,
+    "file": "songs/1991-Banda Blanca-Sopa de Caracol.mp3"
+  },
+  {
+    "id": "044",
+    "title": "Caribbean Blue",
+    "artist": "Enya",
+    "year": 1991,
+    "file": "songs/1991-Enya-Caribbean Blue.mp3"
+  },
+  {
+    "id": "045",
+    "title": "Unfinished Sympathy",
+    "artist": "Massive Attack",
+    "year": 1991,
+    "file": "songs/1991-Massive Attack-Unfinished Sympathy.mp3"
+  },
+  {
+    "id": "046",
+    "title": "I'm Too Sexy",
+    "artist": "Right Said Fred",
+    "year": 1991,
+    "file": "songs/1991-Right Said Fred-I'm Too Sexy.mp3"
+  },
+  {
+    "id": "047",
+    "title": "All That She Wants",
+    "artist": "Ace of Base",
+    "year": 1992,
+    "file": "songs/1992-Ace of Base-All That She Wants.mp3"
+  },
+  {
+    "id": "048",
+    "title": "Dreams",
+    "artist": "The Cranberries",
+    "year": 1992,
+    "file": "songs/1992-The Cranberries-Dreams.mp3"
+  },
+  {
+    "id": "049",
+    "title": "Big Time Sensuality",
+    "artist": "Björk",
+    "year": 1993,
+    "file": "songs/1993-Björk-Big Time Sensuality.mp3"
+  },
+  {
+    "id": "050",
+    "title": "The Rhythm of the Night",
+    "artist": "Corona",
+    "year": 1993,
+    "file": "songs/1993-Corona-The Rhythm of the Night.mp3"
+  },
+  {
+    "id": "051",
+    "title": "Return to Innocence",
+    "artist": "Enigma",
+    "year": 1993,
+    "file": "songs/1993-Enigma-Return to Innocence.mp3"
+  },
+  {
+    "id": "052",
+    "title": "What Is Love",
+    "artist": "Haddaway",
+    "year": 1993,
+    "file": "songs/1993-Haddaway-What Is Love.mp3"
+  },
+  {
+    "id": "053",
+    "title": "Macarena",
+    "artist": "Los Del Rio",
+    "year": 1993,
+    "file": "songs/1993-Los Del Rio-Macarena.mp3"
+  },
+  {
+    "id": "054",
+    "title": "No Me Arrepiento de Este Amor",
+    "artist": "Gilda",
+    "year": 1994,
+    "file": "songs/1994-Gilda-No Me Arrepiento de Este Amor.mp3"
+  },
+  {
+    "id": "055",
+    "title": "Without You",
+    "artist": "Mariah Carey",
+    "year": 1994,
+    "file": "songs/1994-Mariah Carey-Without You.mp3"
+  },
+  {
+    "id": "056",
+    "title": "Army of Me",
+    "artist": "Bjork",
+    "year": 1995,
+    "file": "songs/1995-Bjork-Army of Me.mp3"
+  },
+  {
+    "id": "057",
+    "title": "High and Dry",
+    "artist": "Radiohead",
+    "year": 1995,
+    "file": "songs/1995-Radiohead-High and Dry.mp3"
+  },
+  {
+    "id": "058",
+    "title": "Born Slippy.NUXX",
+    "artist": "Underworld",
+    "year": 1995,
+    "file": "songs/1995-Underworld-Born Slippy.NUXX.mp3"
+  },
+  {
+    "id": "059",
+    "title": "Wannabe",
+    "artist": "Spice Girls",
+    "year": 1996,
+    "file": "songs/1996-Spice Girls-Wannabe.mp3"
+  },
+  {
+    "id": "060",
+    "title": "Electrica Salsa",
+    "artist": "CLOTTA",
+    "year": 1998,
+    "file": "songs/1998-CLOTTA-Electrica Salsa.mp3"
+  },
+  {
+    "id": "061",
+    "title": "Doo Wop (That Thing)",
+    "artist": "Lauryn Hill",
+    "year": 1998,
+    "file": "songs/1998-Lauryn Hill-Doo Wop (That Thing).mp3"
+  },
+  {
+    "id": "062",
+    "title": "Rubí",
+    "artist": "Babasónicos",
+    "year": 1999,
+    "file": "songs/1999-Babasónicos-Rubí.mp3"
+  },
+  {
+    "id": "063",
+    "title": "The First Taste",
+    "artist": "Fiona Apple",
+    "year": 1999,
+    "file": "songs/1999-Fiona Apple-The First Taste.mp3"
+  },
+  {
+    "id": "064",
+    "title": "Porcelain",
+    "artist": "Moby",
+    "year": 1999,
+    "file": "songs/1999-Moby-Porcelain.mp3"
+  },
+  {
+    "id": "065",
+    "title": "Only Time",
+    "artist": "Enya",
+    "year": 2000,
+    "file": "songs/2000-Enya-Only Time.mp3"
+  },
+  {
+    "id": "066",
+    "title": "Music",
+    "artist": "Madonna",
+    "year": 2000,
+    "file": "songs/2000-Madonna-Music.mp3"
+  },
+  {
+    "id": "067",
+    "title": "Aserejé",
+    "artist": "Las Ketchup",
+    "year": 2002,
+    "file": "songs/2002-Las Ketchup-Aserejé.mp3"
+  },
+  {
+    "id": "068",
+    "title": "Bombón Asesino",
+    "artist": "Los Palmeras",
+    "year": 2004,
+    "file": "songs/2004-Los Palmeras-Bombón Asesino.mp3"
+  },
+  {
+    "id": "069",
+    "title": "Nude",
+    "artist": "Radiohead",
+    "year": 2007,
+    "file": "songs/2007-Radiohead-Nude.mp3"
+  },
+  {
+    "id": "070",
+    "title": "Tomboy",
+    "artist": "Princess Nokia",
+    "year": 2016,
+    "file": "songs/2016-Princess Nokia-Tomboy.mp3"
+  }
+]
