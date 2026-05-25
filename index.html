@@ -217,8 +217,11 @@
         <div class="vinyl-center"></div>
       </div>
 
-      <div class="song-title" id="song-title">–</div>
-      <div class="song-artist" id="song-artist">–</div>
+      <!-- Info oculta — se revela al tocar el botón -->
+      <div id="song-info" class="hidden">
+        <div class="song-title" id="song-title">–</div>
+        <div class="song-artist" id="song-artist">–</div>
+      </div>
 
       <div class="progress-container" id="progress-container">
         <div class="progress-bar" id="progress-bar"></div>
@@ -239,6 +242,19 @@
         <input type="range" id="volume" min="0" max="1" step="0.05" value="1" />
         <span>🔊</span>
       </div>
+
+      <!-- Botón para revelar nombre (opcional, para cuando quieran hacer trampa o confirmar) -->
+      <button id="btn-reveal" style="
+        margin-top: 20px;
+        background: none;
+        border: 1px solid rgba(255,255,255,0.2);
+        border-radius: 20px;
+        color: rgba(255,255,255,0.4);
+        font-size: 12px;
+        padding: 6px 16px;
+        cursor: pointer;
+        transition: all 0.2s;
+      ">Revelar canción</button>
     </div>
 
     <!-- Error state -->
@@ -314,6 +330,14 @@
 
     volumeSlider.addEventListener('input', () => {
       audio.volume = volumeSlider.value;
+    });
+
+    // Revelar nombre de canción
+    const btnReveal = document.getElementById('btn-reveal');
+    const songInfo = document.getElementById('song-info');
+    btnReveal.addEventListener('click', () => {
+      songInfo.classList.remove('hidden');
+      btnReveal.style.display = 'none';
     });
 
     // Load song from songs.json based on ?song= param
